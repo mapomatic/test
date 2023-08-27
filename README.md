@@ -1,4 +1,4 @@
 # test
-BETA 4 PROD
+PROD
 
 feature 1 (prod/beta)
